@@ -26,7 +26,7 @@
 
 ## Objetivo
 
-Aplicativo Web para gerar consultas SQL com a biblioteca de `IA Generativa` da Google.
+Projeto desenvolvido para a criação do Aplicativo Web para gerar consultas SQL com `IA Generativa` com a biblioteca `Genai` da Google.
 
 <!-- programas-e-bibliotecas -->
 ### Bibliotecas utilizadas
@@ -51,6 +51,16 @@ Para rodar o projeto dentro do diretório raiz no prompt digite:
 ```
 streamlit run app.py
 ``` 
+
+<!-- sobre -->
+## Links
+
+Links úteis:
+
+Microsoft para gerar a key: https://ai.google.dev/gemini-api/docs/api-key?hl=pt-br
+
+Streamlit: https://streamlit.io/
+
 <!-- sobre -->
 ## Sobre
 
